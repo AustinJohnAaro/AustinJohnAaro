@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AustinJohnAaro
-- 👀 I’m interested in Computer Engineering. 
-- 🌱 I’m currently learning Full Stack Computer Programming.
-- 💞️ I’m looking to collaborate on electric Trucks.
+- 👀 I’m interested in Software Engineering. 
+- 🌱 Very good experience with C programming language and Java script.
+- 💞️ I am highly motivated, I am very passionate to learn.
 - 📫 How to reach me = github = AustinJohnAaro
                       = email = austin1472a@gmail.com
                       = Linkedin = https://www.linkedin.com/in/austin-aaro/ 
